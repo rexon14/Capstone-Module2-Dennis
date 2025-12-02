@@ -75,30 +75,14 @@ seaborn==0.12.0
 scipy==1.10.0
 ```
 
-## 📁 Struktur File
-
-```
-├── Capstone_Project_Module_2_SaaS_Sales_Analysis.ipynb  # Jupyter Notebook
-├── SaaS-Sales.csv                                        # Dataset
-├── AWS_SaaS_Sales_Documentation.pdf                      # Dokumentasi dataset
-├── Presentation_Slides.pptx                              # Slide presentasi
-├── Tableau_Dashboard_Link.txt                            # Link dashboard
-└── README.md                                             # File ini
-```
-
 ## 📊 Tableau Dashboard
 
-[Link Dashboard Tableau Public] *(tambahkan link setelah publish)*
+[Link Dashboard Tableau Public]
 
 ## 👤 Author
 
-**[Nama Kamu]**  
+**Dennis Schira**  
 Capstone Project Module 2 - Data Science & Machine Learning Bootcamp
-
-## 📝 License
-
-This project is for educational purposes.
-
 ---
 
 *Dibuat sebagai bagian dari Capstone Project Module 2 - Data Analysis*
