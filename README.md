@@ -77,7 +77,7 @@ scipy==1.10.0
 
 ## 📊 Tableau Dashboard
 
-[Link Dashboard Tableau Public]
+[Link Dashboard Tableau Public] *https://public.tableau.com/app/profile/dennis.schira/viz/CapstoneProject_M2_DennisSchira/Dashboard-Page1?publish=yes*
 
 ## 👤 Author
 
